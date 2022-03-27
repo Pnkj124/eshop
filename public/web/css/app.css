@@ -1,0 +1,20 @@
+.brand_image {
+    width: 100%;
+    max-width: 160px;
+}
+
+.slider__section {
+    max-width: 75%;
+    margin: auto;
+}
+
+.bg-white {
+    background: #fff !important;
+}
+
+.searchbar {
+    min-width: 480px;
+    width: 100%;
+    max-width: 840px;
+}
+

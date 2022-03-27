@@ -1,0 +1,21 @@
+.main.container {
+    margin-top: 3em;
+  }
+
+.header.item >.logo {
+    margin-right: .5em !important;
+}
+
+.header.item{
+    font-size: larger;
+}
+
+.ui.main.container{
+    margin-top:10px !important;
+}
+@media print {
+    .no-print
+    {
+        display: none;
+    }
+}
